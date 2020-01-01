@@ -32,8 +32,5 @@ public class Lab4_3Activity extends AppCompatActivity {
         spec.setContent(R.id.tab_content3);
         host.addTab(spec);
 
-
-
-
     }
 }
