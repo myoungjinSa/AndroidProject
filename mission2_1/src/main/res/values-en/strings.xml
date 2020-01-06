@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mission2_1</string>
+    <string name ="long_text">
+        Manage all your conversations in one place and use stickers and chat heads. SMS conversations are displayed separately in Messenger and only through mobile phones
+        It is available. You will be charged for standard text messaging.
+    </string>
+    <string name="main_text">
+        Send and receive SMS in Messenger
+    </string>
+    <string name="confirm">
+        confirm
+    </string>
+    <string name="setting">
+        setting
+    </string>
+</resources>
