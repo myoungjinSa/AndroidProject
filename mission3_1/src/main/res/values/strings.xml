@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mission3_1</string>
+    <string name="result">Result</string>
+    <string name="name">Name : </string>
+    <string name="email">Email : </string>
+    <string name="phone">Phone : </string>
+</resources>
